@@ -1,0 +1,177 @@
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\SpriteFont1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\Ball.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\BatLeft.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\BatRight.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\Scorebar.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\applause1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\click.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\ding.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\AKAssignment4.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\AKAssignment4.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\NewSpriteFont.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.exe
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.pdb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\NewSpriteFont.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\SpriteFont1.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\Ball.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\BatLeft.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\BatRight.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\Scorebar.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\applause1.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\click.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\ding.xnb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\AKAssignment4.exe
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\AKAssignment4.pdb
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\gaming\AKAssignment4\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.exe
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.pdb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\NewSpriteFont.xnb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\SpriteFont1.xnb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\Ball.xnb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\BatLeft.xnb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\BatRight.xnb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\Scorebar.xnb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\applause1.xnb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\click.xnb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\ding.xnb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\AKAssignment4.exe
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\AKAssignment4.pdb
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Almas Khan\Downloads\download (1)\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.csprojResolveAssemblyReference.cache
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\NewSpriteFont.xnb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\SpriteFont1.xnb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\Ball.xnb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\BatLeft.xnb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\BatRight.xnb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\Scorebar.xnb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\applause1.xnb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\click.xnb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\ding.xnb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\AKAssignment4.exe
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\AKAssignment4.pdb
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+G:\AKAssignment4\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\AKAssignment4\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.csprojResolveAssemblyReference.cache
+G:\AKAssignment4\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.exe
+G:\AKAssignment4\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.pdb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.exe
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.pdb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\NewSpriteFont.xnb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\fonts\SpriteFont1.xnb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\Ball.xnb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\BatLeft.xnb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\BatRight.xnb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\images\Scorebar.xnb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\applause1.xnb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\click.xnb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\Content\sounds\ding.xnb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\AKAssignment4.exe
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\AKAssignment4.pdb
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Almas Khan\Downloads\download (2)\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\AKAssignment4\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.exe
+C:\Users\Almas Khan\Desktop\AKAssignment4\AKAssignment4\AKAssignment4\obj\x86\Debug\AKAssignment4.pdb
